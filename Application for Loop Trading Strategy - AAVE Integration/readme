@@ -1,0 +1,4 @@
+This paper presents a looped trading strategy deployed on AAVE V3, dynamically managed
+using an Xtreamly AI-driven Volatility Classification Model. The strategy aims to
+maximize returns by recursive borrowing and lending, while integrating real-time
+volatility detection and multiple risk checks to automatically optimize or exit positions.

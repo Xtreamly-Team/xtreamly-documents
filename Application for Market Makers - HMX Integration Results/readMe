@@ -1,0 +1,4 @@
+This test evaluates whether using a volume-aware spread prediction model leads to materially
+improved execution outcomes — not only by reducing the loss but also by generating positive
+trading alpha when compared to a naive execution benchmark.
+We tested two timeframes using live and synthetic trading data across multiple assets for HMX
